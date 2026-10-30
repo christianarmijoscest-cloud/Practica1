@@ -10,3 +10,6 @@ get push
 versiones
 67
 six sevens
+2E2
+Christian Armijos
+Matematica
