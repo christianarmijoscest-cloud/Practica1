@@ -8,8 +8,7 @@ Aprender a controlar versiones.
 Commits
 get push
 versiones
-67
-six sevens
 2E2
 Christian Armijos
 Matematica
+Me gusta jugar voleibol
